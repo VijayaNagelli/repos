@@ -26,10 +26,10 @@
   [Git](https://enterprise.github.com/login)
   
   ** Table **
-  |Name|Branch|college|
-  |------|-------|-------|
-  |abc|cse|vrsec|
-  |xyz|cse|vrsec|
+  |Name|Branch|college
+  ------|-------|-------
+  abc|cse|vrsec
+  xyz|cse|vrsec
   ```
    #include<stdio.h>
    void main()
