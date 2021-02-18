@@ -26,7 +26,7 @@
   [Git](https://enterprise.github.com/login)
   
   ** Table **
-  | Name |Branch |college|
+  |Name|Branch|college|
   |------|-------|-------|
   |abc|cse|vrsec|
   |xyz|cse|vrsec|
